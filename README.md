@@ -10,4 +10,4 @@
 ### Projet récent
 
 - [Forum front-end](http://www.simplonline.com) + [Forum Back-end](https://github.com/anthonycory/Symfony-BackEndForum) ReactJS + Symfony
-- [MangaApp](https://github.com/anthonycory/AppMangam)  ReactJS
+- [MangaApp](https://github.com/anthonycory/AppMangam)  ReactJS + Firebase
