@@ -18,7 +18,8 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg) A badge used for repositories that using [React](https://github.com/facebook/react)
+![React](https://badges.aleen42.com/src/react.svg)
+
 
 #### Outils
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
