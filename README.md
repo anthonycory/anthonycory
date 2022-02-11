@@ -25,3 +25,6 @@
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://camo.githubusercontent.com/a8b6f4da82d06377c555de8affbcd5318f5e0be7eb88abab97c3130d1cade44a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonycory&theme=white-green)
