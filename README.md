@@ -12,7 +12,7 @@
 #### Projet récent
 
 - [Forum front-end](http://www.simplonline.com) + [Forum Back-end](https://github.com/anthonycory/Symfony-BackEndForum) ReactJS + Symfony
-- [MangaApp](https://github.com/anthonycory/AppMangam)  ReactNative + Firebase
+- [MangaApp](https://github.com/anthonycory/ReactNative-MangaApp)  ReactNative + Firebase
 
 #### Language et framework
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
