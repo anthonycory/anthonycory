@@ -6,7 +6,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=anthonycory&color=orange)
 ![profile count](https://img.shields.io/github/followers/anthonycory.svg?style=social&label=Follow&maxAge=2592000)
 
-<font size="1">Moi c'est <b>Anthony cory</b>, je suis un développeur qui cherche à résoudre des problèmes du monde réel. j'ai la passion d'apprendre et de partager mes connaissances</font>
+<font size="1">Moi c'est <b>Anthony cory</b>, je suis un développeur qui cherche à résoudre vos besoin. j'ai la passion d'apprendre et de partager mes connaissances</font>
 
 #
 #### Projet récent
